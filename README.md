@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/anufff__/" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+  <a href="https://discord.com/users/anuf_" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
